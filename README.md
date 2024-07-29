@@ -25,5 +25,10 @@
 ![商家均价和总销量排行](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/t3.jpg)
 
 **淘宝双十一期间 各商家最受欢迎的商品**
+
 ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/t4.jpg)
 
+## 淘宝日用美妆商品数据可视化
+
+**日化商品每月订购量和销售金额**
+![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b1.jpg)  ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b2.jpg) 
