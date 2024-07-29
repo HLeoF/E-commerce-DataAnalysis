@@ -32,3 +32,9 @@
 
 **日化商品每月订购量和销售金额**
 ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b1.jpg)  ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b2.jpg) 
+
+**日化商品大类占比，以及各大类下的小类占比**
+
+
+| ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b3.jpg) | ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b3-1.jpg) | ![](https://github.com/HLeoF/E-commerce-DataAnalysis/blob/main/imgs/b3-2.jpg) |
+| --- | --- | --- |
