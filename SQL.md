@@ -1,7 +1,7 @@
 # SQL Code
 ## Here offering the SQL to process raw dataset and create and user behavior models:
 
-```
+```sql
 #创建数据库
 create database taobao;
 use taobao;
