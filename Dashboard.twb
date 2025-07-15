@@ -4401,7 +4401,7 @@
           </zone>
           <zone h='7500' id='37' param='vert' type-v2='layout-flow' w='48069' x='50000' y='6969'>
             <zone fixed-size='73' h='2531' id='55' is-fixed='true' name='header2' w='47453' x='50308' y='7094'>
-              <layout-cache cell-count-w='1' minheight='115' type-h='scalable' type-w='cell' />
+              <layout-cache minheight='115' type-h='scalable' type-w='cell' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
@@ -4410,7 +4410,7 @@
               </zone-style>
             </zone>
             <zone h='4719' id='47' name='pv/uv' w='47453' x='50308' y='9625'>
-              <layout-cache cell-count-w='9' minheight='115' non-cell-size-w='33' type-h='scalable' type-w='cell' />
+              <layout-cache minheight='115' type-h='scalable' type-w='cell' />
               <zone-style>
                 <format attr='border-color' value='#000000' />
                 <format attr='border-style' value='none' />
